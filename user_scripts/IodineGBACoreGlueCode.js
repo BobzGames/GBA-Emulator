@@ -16,7 +16,7 @@
  *
  */
 var games = {
-    "madden07":"Madden 2007",
+    "madden07":"Madden NFL 2007",
     "advancewars":"Advance Wars",
     "advancewars2":"Advance Wars 2",
     "aladdin":"Aladdin",
