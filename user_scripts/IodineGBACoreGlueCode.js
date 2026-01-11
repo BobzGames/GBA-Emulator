@@ -16,6 +16,7 @@
  *
  */
 var games = {
+    "taxi":"Crazy Taxi: Catch a Ride",
     "madden07":"Madden NFL 2007",
     "advancewars":"Advance Wars",
     "advancewars2":"Advance Wars 2",
